@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/corona/static/css/main.3ad1d38b.chunk.css",
-    "main.js": "/corona/static/js/main.1ffd9010.chunk.js",
-    "main.js.map": "/corona/static/js/main.1ffd9010.chunk.js.map",
-    "runtime-main.js": "/corona/static/js/runtime-main.63fc8337.js",
-    "runtime-main.js.map": "/corona/static/js/runtime-main.63fc8337.js.map",
-    "static/js/2.5cc550b4.chunk.js": "/corona/static/js/2.5cc550b4.chunk.js",
-    "static/js/2.5cc550b4.chunk.js.map": "/corona/static/js/2.5cc550b4.chunk.js.map",
-    "index.html": "/corona/index.html",
-    "static/css/main.3ad1d38b.chunk.css.map": "/corona/static/css/main.3ad1d38b.chunk.css.map",
-    "static/js/2.5cc550b4.chunk.js.LICENSE.txt": "/corona/static/js/2.5cc550b4.chunk.js.LICENSE.txt"
+    "main.css": "/covis19/static/css/main.3ad1d38b.chunk.css",
+    "main.js": "/covis19/static/js/main.1ffd9010.chunk.js",
+    "main.js.map": "/covis19/static/js/main.1ffd9010.chunk.js.map",
+    "runtime-main.js": "/covis19/static/js/runtime-main.43a7ec6c.js",
+    "runtime-main.js.map": "/covis19/static/js/runtime-main.43a7ec6c.js.map",
+    "static/js/2.5cc550b4.chunk.js": "/covis19/static/js/2.5cc550b4.chunk.js",
+    "static/js/2.5cc550b4.chunk.js.map": "/covis19/static/js/2.5cc550b4.chunk.js.map",
+    "index.html": "/covis19/index.html",
+    "static/css/main.3ad1d38b.chunk.css.map": "/covis19/static/css/main.3ad1d38b.chunk.css.map",
+    "static/js/2.5cc550b4.chunk.js.LICENSE.txt": "/covis19/static/js/2.5cc550b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63fc8337.js",
+    "static/js/runtime-main.43a7ec6c.js",
     "static/js/2.5cc550b4.chunk.js",
     "static/css/main.3ad1d38b.chunk.css",
     "static/js/main.1ffd9010.chunk.js"
